@@ -1,13 +1,13 @@
 package com.java;
 
 public class TextEditor {
-	private SpellChecker spellChecker;
+	private SpellChecker spellChecker1;
 	private String name;
 	public SpellChecker getSpellChecker() {
-		return spellChecker;
+		return spellChecker1;
 	}
 	public void setSpellChecker(SpellChecker spellChecker) {
-		this.spellChecker = spellChecker;
+		this.spellChecker1 = spellChecker;
 	}
 	public String getName() {
 		return name;
